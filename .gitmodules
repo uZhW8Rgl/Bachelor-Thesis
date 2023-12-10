@@ -1,0 +1,9 @@
+[submodule "pycrypto"]
+	path = pycrypto
+	url = https://github.com/uZhW8Rgl/pycrypto.git
+[submodule "ZoKrates"]
+	path = ZoKrates
+	url = https://github.com/uZhW8Rgl/ZoKrates.git
+[submodule "baby_jubjub"]
+	path = baby_jubjub
+	url = https://github.com/uZhW8Rgl/baby_jubjub.git
